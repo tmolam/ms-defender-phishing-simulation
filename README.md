@@ -37,7 +37,11 @@ All activities were conducted in a controlled sandbox environment using fictiona
 
 A credential-harvesting simulation was configured using Microsoft Defender Attack Simulation Training.
 
+![Simulation configuration](screenshots/simulation-technique.png)
+
 The selected phishing scenario impersonated a mailbox storage warning, encouraging recipients to interact with the simulated email.
+
+![Simulation payload](screenshots/simulation-payload.png)
 
 The campaign was configured with a phishing landing page designed to simulate a credential submission scenario.
 
@@ -64,6 +68,8 @@ The simulation produced two different user responses:
 | Assigned training completed | 2 users |
 
 This represented a 50% credential submission rate and a 50% reporting rate within the two-user test group.
+
+![Campaign results](screenshots/campaign-results.png)
 
 The results demonstrated how users may respond differently to the same simulated phishing attempt.
 

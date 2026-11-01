@@ -75,7 +75,7 @@ The results demonstrated how users may respond differently to the same simulated
 
 One user interacted with the credential-harvesting page and submitted credentials, while the other correctly identified and reported the simulated phishing email.
 
-Both users completed the assigned security awareness training.
+The user who submitted their credentials was also assigned mandatory awareness training that they had to complete.
 
 ### Key Observations
 
